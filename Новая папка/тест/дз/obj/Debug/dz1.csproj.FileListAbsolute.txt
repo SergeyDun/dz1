@@ -1,0 +1,6 @@
+C:\Новая папка\Testirovanie-master\DZ\bin\Debug\DZ.exe.config
+C:\Новая папка\Testirovanie-master\DZ\bin\Debug\DZ.exe
+C:\Новая папка\Testirovanie-master\DZ\bin\Debug\DZ.pdb
+C:\Новая папка\Testirovanie-master\DZ\obj\Debug\dz1.csprojAssemblyReference.cache
+C:\Новая папка\Testirovanie-master\DZ\obj\Debug\DZ.exe
+C:\Новая папка\Testirovanie-master\DZ\obj\Debug\DZ.pdb
